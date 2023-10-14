@@ -112,5 +112,33 @@ namespace Ejemplo.Controllers
             return Ok(respuesta);
         }
 
+        [HttpPut("PeticionProductoPut")]
+        public IActionResult PruebaPut([FromBody] Producto producto)
+        {
+            MiRespuesta respuesta = new MiRespuesta();
+            if (producto == null)
+            {
+                return BadRequest();
+            }
+
+            // Buscar el producto por su id
+            var productoExistente = productos.Find(p => p.id == producto.id);
+
+            if (productoExistente == null)
+            {
+                return NotFound();
+            }
+
+            // Actualizar el producto existente con los datos del producto recibido
+            productoExistente.nombre = producto.nombre;
+            productoExistente.cantidad = producto.cantidad;
+            productoExistente.precio = producto.precio;
+
+            respuesta.Ok = true;
+            respuesta.Datos = productoExistente;
+
+            return Ok(respuesta);
+        }
+
     }
 }
