@@ -1,0 +1,66 @@
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\appsettings.Development.json
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\appsettings.json
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.exe
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.deps.json
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.runtimeconfig.json
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.runtimeconfig.dev.json
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.pdb
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.AssemblyReference.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.AssemblyInfoInputs.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.AssemblyInfo.cs
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\scopedcss\bundle\Ejemplo.styles.css
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\Ejemplo.StaticWebAssets.Manifest.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\Ejemplo.StaticWebAssets.Pack.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.Ejemplo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.build.Ejemplo.props
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ejemplo.props
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ejemplo.props
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.RazorTargetAssemblyInfo.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.CopyComplete
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\refint\Ejemplo.dll
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.pdb
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.genruntimeconfig.cache
+C:\Capacitacion\ServicioEjemplo\Ejemplo\Ejemplo\obj\Debug\net5.0\ref\Ejemplo.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\refint\Ejemplo.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.pdb
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\appsettings.json
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.exe
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.deps.json
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.runtimeconfig.json
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.runtimeconfig.dev.json
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Ejemplo.pdb
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.AssemblyReference.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.AssemblyInfoInputs.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.AssemblyInfo.cs
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\scopedcss\bundle\Ejemplo.styles.css
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\Ejemplo.StaticWebAssets.Manifest.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\Ejemplo.StaticWebAssets.Pack.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.Ejemplo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.build.Ejemplo.props
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ejemplo.props
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ejemplo.props
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.RazorTargetAssemblyInfo.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.csproj.CopyComplete
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\Ejemplo.genruntimeconfig.cache
+C:\Users\drocha9\OneDrive - DXC Production\Documents\Capacitacion-Angular\ENTREGA_FINAL\Ejemplo\Ejemplo\obj\Debug\net5.0\ref\Ejemplo.dll
